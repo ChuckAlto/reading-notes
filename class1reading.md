@@ -14,3 +14,5 @@ A. Markdown is a markup language for generating HTML using textual symbols for s
 
 Markdown seems like an easy way to create and publish a website.
 
+[Lab 1b](https://chuckalto.github.io/reading-notes/)
+
