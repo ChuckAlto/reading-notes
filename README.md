@@ -12,8 +12,5 @@ It wants you to demand to be **challenged** and come at those challenges with **
 
 > “Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.” -Dale Carnegie
 
-![Chuck Altopiedi](\Desktop/me2.jpg"Chuck Altopiedi")
-
-
-
+![Chuck Altopiedi](https://user-images.githubusercontent.com/89931539/141851190-74f1d3a2-6ea8-4c92-9c8f-f2b0cb9ca432.jpg)
 
