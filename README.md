@@ -8,7 +8,9 @@ It wants you to demand to be **challenged** and come at those challenges with **
 * I **will** Learn from and ebrace my mistakes.
 * I **will** not stop, learning, trying, challenging myself.
 
-> “Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.”
+> “Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.” -Dale Carnegie
+
+![Chuck](C:\Users\chuck\Desktop/me2.jpg"Chuck")
 
 
 
