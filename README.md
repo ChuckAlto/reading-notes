@@ -12,7 +12,7 @@ It wants you to demand to be **challenged** and come at those challenges with **
 
 > “Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.” -Dale Carnegie
 
-![Chuck Altopiedi](\Users\chuck\Desktop/me2.jpg"Chuck Altopiedi")
+![Chuck Altopiedi](\Desktop/me2.jpg"Chuck Altopiedi")
 
 
 
