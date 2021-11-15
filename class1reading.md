@@ -12,3 +12,5 @@ A. Markdown is a markup language for generating HTML using textual symbols for s
 * using a symbol such as an asterisk *will change the writing style to italics*, or if used at the beginning of a sentance will create bullet points.
 * using two asterisk **will change the style to bold**.
 
+Markdown seems like an easy way to create and publish a website.
+
