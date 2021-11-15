@@ -1,6 +1,6 @@
 # Growth Mindset
 
-Growth Mindset is a way to think about **learning** that isn't the simple statement of facts/regurgitation of facts model. 
+Growth Mindset is a way to think about **learning** that isn't the simple statement of facts/regurgitation of facts model.  
 It wants you to take the skill and intelligence you have and expand upon it, rather than rely upon it.  
 It wants you to demand to be **challenged** and come at those challenges with ***excitment*** and ***passion***.  
 
