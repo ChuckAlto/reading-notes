@@ -13,7 +13,10 @@ It wants you to demand to be **challenged** and come at those challenges with **
 > “Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.” -Dale Carnegie
 
 
-Chuck Altopiedi [My Github](https://github.com/ChuckAlto)
+Chuck Altopiedi [My Github](https://github.com/ChuckAlto)  
 
-[Class Reading 1](https://chuckalto.github.io/reading-notes/class1reading)  
-[Class Reading 2](https://chuckalto.github.io/reading-notes/class2reading)
+#### Table of Contents
+
+[Class Reading 1](class1reading.md)  
+[Class Reading 2](class2reading.md)
+[Class Reading 3](class3reading.md)
