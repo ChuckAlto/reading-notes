@@ -31,4 +31,5 @@ The following is a list of basic commands in the terminal.
 
 [main](https://chuckalto.github.io/reading-notes/)  
 [Class Reading 1](https://chuckalto.github.io/reading-notes/class1reading)  
-&dragonfly 
+&dragonfly  
+'dragonfly'  
