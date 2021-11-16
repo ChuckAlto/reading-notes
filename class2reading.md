@@ -9,8 +9,8 @@ Text editors do exactly as the name implies. They edit your text. But not all te
 #### Special Features
 Some of the most common special features of third party text editors include;
 * Code Completion - This feature fills in the expected text after you begin typing.  It also closes tags when you open them allowing you to focus more on the code and less on syntax
-* Syntax highlighting - This feature changes the color of different elements on your screen so you are able to quickly diferentiate between attributes and element and text.
-* Different themes - hours infront of computer coding can be straining on your eyes.  Some text editors allow you to change how the screen looks so that you can choose a theme that is easier to look at for hours on end.  
+* Syntax highlighting - This feature changes the color of different elements on your screen so you are able to quickly differentiate between attributes and element and text.
+* Different themes - hours in front of computer coding can be straining on your eyes.  Some text editors allow you to change how the screen looks so that you can choose a theme that is easier to look at for hours on end.  
 
 A lot of choosing a text editor is personal preference.  In the end, the best text editor for you is the one that you feel most comfortable with.  
 
