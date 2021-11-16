@@ -4,7 +4,8 @@ Hi I'm chuck, welcome to my page.
 
 #### Table of Contents
 
-[Class Reading 1](class1reading.md)  
-[Class Reading 2](class2reading.md)  
-[Class Reading 3](class3reading.md)  
-[readings](readings.md)
+* [Class Reading 1](class1reading.md)  
+* [Class Reading 2](class2reading.md)  
+* [Class Reading 3](class3reading.md)  
+* [Class Reading 4](class4reading.md)  
+* [readings](readings.md)
