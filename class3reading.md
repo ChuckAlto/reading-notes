@@ -21,4 +21,4 @@ you can import the current version of your code from git to your computer.  From
 8. To add the new version to your get you must push the commit.  do this by typing `git push origin main` this will send your new version and the message you added back to git where git will add this version as the current working version or "head".  
 
 
-[main](reading-notes.md)
+[main](https://chuckalto.github.io/reading-notes/)
