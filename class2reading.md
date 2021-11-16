@@ -15,6 +15,19 @@ Some of the most common special features of third party text editors include;
 A lot of choosing a text editor is personal preference.  In the end, the best text editor for you is the one that you feel most comfortable with.  
 
 ### The Terminal
+A terminal is a text based interface to your computer.  Rather than a graphical user interface, you type out your commands to navigate your computer.  You can do all of the same basic commands that you can do with a mouse whether it be navigating through folders, copying files, opening programs, creating or removing files.  
 
+#### Terminal Cheat Sheet
+The following is a list of basic commands in the terminal.  
+* pwd - present working directory.  Lets you know where you are.
+* ls - Lists all objects in your present directory.
+* cd - Changes directory.
+* mkdir - Makes a new directory.
+* rm - Used to remove something from the directory.
+* touch - Creates a file.
+* cp - Used to copy a file or directory.
+* cd .. - Moves you back out one directory level.
+* mv - Used to move a file, a folder, an application, ETC
 
-
+[main](https://chuckalto.github.io/reading-notes/)
+[lab 1b](https://chuckalto.github.io/reading-notes/class1reading)
