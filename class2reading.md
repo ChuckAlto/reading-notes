@@ -29,5 +29,5 @@ The following is a list of basic commands in the terminal.
 * cd .. - Moves you back out one directory level.
 * mv - Used to move a file, a folder, an application, ETC
 
-[main](https://chuckalto.github.io/reading-notes/)
-[lab 1b](https://chuckalto.github.io/reading-notes/class1reading)
+[main](https://chuckalto.github.io/reading-notes/)  
+[Class Reading 1](https://chuckalto.github.io/reading-notes/class1reading)
