@@ -16,3 +16,4 @@ It wants you to demand to be **challenged** and come at those challenges with **
 Chuck Altopiedi [My Github](https://github.com/ChuckAlto)
 
 [Reading 1](https://chuckalto.github.io/reading-notes/class1reading)
+[Reading 2](https://chuckalto.github.io/reading-notes/class2reading)
