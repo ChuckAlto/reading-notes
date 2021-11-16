@@ -1,5 +1,5 @@
 
-# Class 2 Reading
+# Class Reading 2
 
 ## Text Editors, and the Terminal
 
