@@ -8,5 +8,6 @@ Hi I'm chuck, welcome to my page.
 * [Class Reading 2](class2reading.md)  
 * [Class Reading 3](class3reading.md)  
 * [Class Reading 4](class4reading.md)  
-* [Class Reading 5](class5reading.md)  
+* [Class Reading 5](class5reading.md) 
+* [Class Reading 6](class6reading.md) 
 * [readings](readings.md) 
