@@ -10,4 +10,5 @@ Hi I'm chuck, welcome to my page.
 * [Class Reading 4](class4reading.md)  
 * [Class Reading 5](class5reading.md) 
 * [Class Reading 6](class6reading.md) 
+* [Class Reading 7](class7reading.md)
 * [readings](readings.md) 
