@@ -5,7 +5,7 @@ This page will serve as a container for my Code Fellows reading assignments.
 
 ### Table of Contents
 #### Code 201 Reading Notes
-* Future location of 201 reading assignment 1
+* [Class 01 Reading](class-01.md)
 * Future location of 201 reading assignment 2
 * Future location of 201 reading assignment 3
 * Future location of 201 reading assignment 4
