@@ -8,7 +8,7 @@ This page will serve as a container for my Code Fellows reading assignments.
 * [Class 01 Reading](class-01.md)
 * [Class 02 Reading](class-02.md)
 * [class 03 Reading](class-03.md)
-* Future location of 201 reading assignment 4
+* [class 04 Reading](class-04.md)
 * Future location of 201 reading assignment 5
 * Future location of 201 reading assignment 6
 * Future location of 201 reading assignment 7
