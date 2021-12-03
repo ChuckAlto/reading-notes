@@ -22,14 +22,14 @@ Images are also typically given a height and width within the attribute. this co
 
 The colors on your page can make the website look professional or silly, pleasant to look at or a mess. They can make text easy to read or near impossible to differentiate from the background.  Using CSS you can control the use of colors on your website.
 You can change the color of your text. for example if you have a `<p>` element. using CSS you can change the text color to white.
-` p {`
-  `color: white;`
-`}`
+` p {`  
+  `color: white;`  
+  `}`
 if you do this thought, you want to make sure the background color makes the text stand out instead of disappearing into it. with a white text the darker the background the better. this is how you change the background color.
-` p {`
-  `color: white;`
-  `background-color: Black;`
-`}`
+` p {`  
+  `color: white;`  
+  `background-color: Black;`  
+  `}`
 This can bed done in the same place where you turned the text white.  Now you have a white text on a black background.  This will stand out and be easily readable by the end user.
 Using CSS you can easily change any color to any shade of any color, and even change the opacity of the color element.
 
