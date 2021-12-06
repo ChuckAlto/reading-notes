@@ -1,4 +1,4 @@
-# 205 Class Reading 5
+# 201 Class Reading 5
 
 ## Images
 > A picture can say a thousand words, and great images help make the difference between an average-looking site and a really engaging one. (Jon Duckett, html and css, page 97)
