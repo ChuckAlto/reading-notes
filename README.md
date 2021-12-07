@@ -7,11 +7,11 @@ This page will serve as a container for my Code Fellows reading assignments.
 #### Code 201 Reading Notes
 * [Class 01 Reading](class-01.md)
 * [Class 02 Reading](class-02.md)
-* [class 03 Reading](class-03.md)
-* [class 04 Reading](class-04.md)
+* [Class 03 Reading](class-03.md)
+* [Class 04 Reading](class-04.md)
 * [Class 05 Reading](class-05.md)
-* [class 06 Reading](class-06.md)
-* [class 07 Reading](class-07.md)
+* [Class 06 Reading](class-06.md)
+* [Class 07 Reading](class-07.md)
 * Future location of 201 reading assignment 8
 * Future location of 201 reading assignment 9
 * Future location of 201 reading assignment 10
