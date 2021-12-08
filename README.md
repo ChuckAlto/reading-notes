@@ -12,7 +12,7 @@ This page will serve as a container for my Code Fellows reading assignments.
 * [Class 05 Reading](class-05.md)
 * [Class 06 Reading](class-06.md)
 * [Class 07 Reading](class-07.md)
-* Future location of 201 reading assignment 8
+* [Class 08 Reading](class-08.md)
 * Future location of 201 reading assignment 9
 * Future location of 201 reading assignment 10
 * Future location of 201 reading assignment 11
