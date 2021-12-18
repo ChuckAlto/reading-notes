@@ -27,3 +27,5 @@ The DOM is not javascript nor html. It is a set of rules that covers.
 * Accessing and changing the html page-updats objects in the model which updates what is shown in the browser.
 
 The DOM is sometimes called an application programming interface `API` 
+
+[main](README.md)
