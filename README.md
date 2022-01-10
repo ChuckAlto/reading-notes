@@ -29,5 +29,6 @@ This page will serve as a container for my Code Fellows reading assignments.
 * [Class 12 Reading](class-12.md)
 
 ## Code 301 - Intermediate Software Development
+* [Class 01 Reading](301-reading-one.md)
 
 ## Code 401 - Advanced Software Development
