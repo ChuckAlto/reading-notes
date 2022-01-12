@@ -62,10 +62,10 @@ Answer- It changes a value by a set increment.
 
 - How can you pass a method from a parent component into a child component?
 
-Answer- 
+Answer- Pass a method from parent to child component.
 
 - How does the child component invoke a method that was passed to it from a parent component?
 
-Answer-
+Answer- calling a method with this.props.method()
 
 [main](README.md)
