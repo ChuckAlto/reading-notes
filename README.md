@@ -32,5 +32,7 @@ This page will serve as a container for my Code Fellows reading assignments.
 * [Class 01 Reading](301-reading-one.md)
 * [Class 02 Reading](301-reading-two.md)
 * [Class 03 Reading](301-reading-three.md)
+* [Class 04 Reading](301-reading-four.md)
+* [Class 05 Reading](301-reading-five.md)
 
 ## Code 401 - Advanced Software Development
