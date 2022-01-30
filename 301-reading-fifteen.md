@@ -17,5 +17,10 @@ answer- CRUD is mapped to REST commands
 If you had to describe the process of creating a RESTful API in 5 steps, what would they be?
 
 answer-
+1. create the server
+2. create the frontend
+3. import api
+4. groom data
+5. test output
 
 [main](README.md)
