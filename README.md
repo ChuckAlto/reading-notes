@@ -39,5 +39,9 @@ This page will serve as a container for my Code Fellows reading assignments.
 * [Class 08 Reading](301-reading-eight.md)
 * [Class 09 Reading](301-reading-nine.md)
 * [Class 10 Reading](301-reading-ten.md)
+* [Class 11 Reading](301-reading-eleven.md)
+* [Class 12 Reading](301-reading-twelve.md)
+* [Class 13 Reading](301-reading-thirteen.md)
+* [Class 15 reading](301-reading-fifteen.md)
 
 ## Code 401 - Advanced Software Development
