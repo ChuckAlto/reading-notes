@@ -45,3 +45,6 @@ This page will serve as a container for my Code Fellows reading assignments.
 * [Class 15 reading](301-reading-fifteen.md)
 
 ## Code 401 - Advanced Software Development
+
+### prework
+* [The Growth Mindset](prework-growth-mindset.md)
