@@ -48,3 +48,4 @@ This page will serve as a container for my Code Fellows reading assignments.
 
 ### prework
 * [The Growth Mindset](prework-growth-mindset.md)
+* [Introduction to SQL](prework-sql.md)
